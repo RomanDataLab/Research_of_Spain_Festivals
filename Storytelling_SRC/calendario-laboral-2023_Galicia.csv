@@ -1,0 +1,639 @@
+fecha,descripcion,ambito,id_municipio,lugar
+06/01/23,Epifanía do Señor (Día de Reis),estatal,,
+06/04/23,Xoves Santo,autonómico,,
+07/04/23,Venres Santo,estatal,,
+01/05/23,Día do Traballo,estatal,,
+17/05/23,Día das Letras Galegas,autonómico,,
+25/07/23,Día Nacional de Galicia,autonómico,,
+15/08/23,Asunción da Virxe,estatal,,
+12/10/23,Festa Nacional de España,estatal,,
+01/11/23,Todos os Santos,estatal,,
+06/12/23,Día da Constitución Española,estatal,,
+08/12/23,Inmaculada Concepción,estatal,,
+25/12/23,Natividade do Señor,estatal,,
+21/02/23,Martes de Entroido,municipal,15001,Abegondo
+25/04/23,festa de San Marcos,municipal,15001,Abegondo
+10/04/23,Luns de Pascua,municipal,15002,Ames
+18/05/23,festa da Ascensión,municipal,15002,Ames
+21/02/23,Martes de Entroido,municipal,15003,Aranga
+03/05/23,festa da Santa Cruz,municipal,15003,Aranga
+22/02/23,Mércores de Cinza,municipal,15004,Ares
+30/05/23,Voto de Chanteiro,municipal,15004,Ares
+21/02/23,Martes de Entroido,municipal,15005,Arteixo
+26/07/23,festas de Santiago Apóstolo,municipal,15005,Arteixo
+10/04/23,Luns de Pascua,municipal,15006,Arzúa
+17/07/23,festa local de Arzúa,municipal,15006,Arzúa
+21/02/23,Martes de Entroido,municipal,15007,Baña (A)
+08/09/23,Virxe do Bo Suceso,municipal,15007,Baña (A)
+21/02/23,Martes de Entroido,municipal,15008,Bergondo
+16/08/23,festa local de Bergondo,municipal,15008,Bergondo
+21/02/23,Martes de Entroido,municipal,15009,Betanzos
+16/08/23,festa de San Roque,municipal,15009,Betanzos
+21/02/23,Martes de Entroido,municipal,15010,Boimorto
+04/09/23,festas do Rosario,municipal,15010,Boimorto
+21/02/23,Martes de Entroido,municipal,15011,Boiro
+31/08/23,festividade de San Ramón,municipal,15011,Boiro
+21/02/23,Martes de Entroido,municipal,15012,Boqueixón
+18/05/23,Día da Ascensión,municipal,15012,Boqueixón
+18/05/23,Día da Ascensión,municipal,15013,Brión
+27/09/23,festa de Santa Minia,municipal,15013,Brión
+21/02/23,Martes de Entroido,municipal,15014,Cabana de Bergantiños
+01/08/23,festa de San Fins,municipal,15014,Cabana de Bergantiños
+21/02/23,Martes de Entroido,municipal,15015,Cabanas
+30/11/23,festa de Santo André,municipal,15015,Cabanas
+21/02/23,Martes de Entroido,municipal,15016,Camariñas
+17/07/23,festas da Virxe do Carme,municipal,15016,Camariñas
+21/02/23,Martes de Entroido,municipal,15017,Cambre
+16/08/23,festa local de Cambre,municipal,15017,Cambre
+21/02/23,Martes de Entroido,municipal,15018,Capela (A)
+16/08/23,festa patronal da Capela,municipal,15018,Capela (A)
+21/02/23,Martes de Entroido,municipal,15019,Carballo
+24/06/23,festa patronal de San Xoán Bautista,municipal,15019,Carballo
+10/04/23,festa local de Carnota,municipal,15020,Carnota
+13/10/23,festa local de Carnota,municipal,15020,Carnota
+21/02/23,Martes de Entroido,municipal,15021,Carral
+08/09/23,festa da Virxe do Socorro,municipal,15021,Carral
+13/06/23,festa de Santo Antonio,municipal,15022,Cedeira
+26/07/23,festa de Santa Ana,municipal,15022,Cedeira
+16/06/23,festa de Santo Adrián,municipal,15023,Cee
+16/08/23,festa de San Roque,municipal,15023,Cee
+21/02/23,Martes de Entroido,municipal,15024,Cerceda
+23/06/23,Día da Cachela de San Xoán,municipal,15024,Cerceda
+21/02/23,Martes de Entroido,municipal,15025,Cerdido
+03/07/23,festa local de Cerdido,municipal,15025,Cerdido
+21/02/23,Martes de Entroido,municipal,15027,Coirós
+08/03/23,Día Internacional da Muller,municipal,15027,Coirós
+25/04/23,festa de San Marcos,municipal,15028,Corcubión
+29/06/23,festa de San Pedro,municipal,15028,Corcubión
+21/02/23,Martes de Entroido,municipal,15029,Coristanco
+19/05/23,festa de Santo Antonio e Santa Ana,municipal,15029,Coristanco
+21/02/23,Martes de Entroido,municipal,15030,Coruña (A)
+24/06/23,festa de San Xoán,municipal,15030,Coruña (A)
+21/02/23,Martes de Entroido,municipal,15031,Culleredo
+24/07/23,festa local de Culleredo,municipal,15031,Culleredo
+21/02/23,Martes de Entroido,municipal,15032,Curtis
+08/09/23,Día da Virxe dos Remedios,municipal,15032,Curtis
+10/04/23,Luns de Pascua,municipal,15033,Dodro
+11/09/23,festas de Laíño (Virxe do Leite e do Bo Parto),municipal,15033,Dodro
+07/08/23,festa de San Mamede de Salgueiros,municipal,15034,Dumbría
+08/09/23,festa da Virxe das Neves,municipal,15034,Dumbría
+22/02/23,Mércores de Cinza,municipal,15035,Fene
+07/08/23,festa de San Salvador,municipal,15035,Fene
+21/02/23,Martes de Entroido,municipal,15036,Ferrol
+10/04/23,Luns de Pascua/Nosa Señora do Chamorro,municipal,15036,Ferrol
+10/04/23,Luns de Pascua,municipal,15037,Fisterra
+08/09/23,festa local de Fisterra,municipal,15037,Fisterra
+21/02/23,Martes de Entroido,municipal,15038,Frades
+29/09/23,festa de San Miguel,municipal,15038,Frades
+21/02/23,Martes de Entroido,municipal,15039,Irixoa
+10/08/23,San Lourenzo,municipal,15039,Irixoa
+16/08/23,Día de San Roque,municipal,15040,Laxe
+17/08/23,Día do Carme,municipal,15040,Laxe
+21/02/23,Martes de Entroido,municipal,15041,Laracha (A)
+08/09/23,festa da Virxe dos Milagres de Caión,municipal,15041,Laracha (A)
+25/04/23,festa de San Marcos,municipal,15042,Lousame
+10/08/23,festa de San Lourenzo,municipal,15042,Lousame
+21/02/23,Martes de Entroido,municipal,15043,Malpica de Bergantiños
+25/08/23,festa do Mar,municipal,15043,Malpica de Bergantiños
+21/02/23,Martes de Entroido,municipal,15044,Mañón
+11/09/23,festa da Patroa,municipal,15044,Mañón
+21/02/23,Martes de Entroido,municipal,15045,Mazaricos
+07/12/23,festa local de Mazaricos,municipal,15045,Mazaricos
+10/04/23,Luns de Pascua,municipal,15046,Melide
+29/06/23,Día de San Pedro,municipal,15046,Melide
+21/02/23,Martes de Entroido,municipal,15047,Mesía
+15/05/23,festa de San Cidre,municipal,15047,Mesía
+21/02/23,Martes de Entroido,municipal,15048,Miño
+29/06/23,Día de San Pedro,municipal,15048,Miño
+21/02/23,Martes de Entroido,municipal,15049,Moeche
+14/08/23,festa local de Moeche,municipal,15049,Moeche
+20/02/23,Luns de Entroido,municipal,15050,Monfero
+21/02/23,Martes de Entroido,municipal,15050,Monfero
+07/01/23,festa local de Mugardos,municipal,15051,Mugardos
+30/05/23,Voto de Chanteiro,municipal,15051,Mugardos
+10/04/23,Luns de Pascua,municipal,15052,Muxía
+11/09/23,Luns da Barca,municipal,15052,Muxía
+24/06/23,festa de San Xoán,municipal,15053,Muros
+29/06/23,festa de San Pedro,municipal,15053,Muros
+21/02/23,Martes de Entroido,municipal,15054,Narón
+23/11/23,Día de Narón,municipal,15054,Narón
+21/02/23,Martes de Entroido,municipal,15055,Neda
+08/09/23,festa local de Neda,municipal,15055,Neda
+07/07/23,festa de San Cristovo,municipal,15056,Negreira
+18/09/23,festa de Santa Margarita,municipal,15056,Negreira
+24/04/23,festa de San Marcos,municipal,15057,Noia
+24/08/23,festa de San Bartolomeu,municipal,15057,Noia
+21/02/23,Martes de Entroido,municipal,15058,Oleiros
+10/04/23,Luns de Pascua,municipal,15058,Oleiros
+21/02/23,Martes de Entroido,municipal,15059,Ordes
+16/08/23,festa local de Ordes,municipal,15059,Ordes
+21/02/23,Martes de Entroido,municipal,15060,Oroso
+16/08/23,festa de San Roque,municipal,15060,Oroso
+21/02/23,Martes de Entroido,municipal,15061,Ortigueira
+29/07/23,Día de Santa Marta,municipal,15061,Ortigueira
+22/02/23,Mércores de Cinza,municipal,15062,Outes
+29/09/23,festividade de San Campio,municipal,15062,Outes
+21/02/23,Martes de Entroido,municipal,15064,Paderne
+16/08/23,festa local de Paderne,municipal,15064,Paderne
+10/04/23,Luns de Pascua,municipal,15065,Padrón
+06/05/23,festa de San Xoán do Raio,municipal,15065,Padrón
+18/05/23,festa da Ascensión do Señor,municipal,15066,Pino (O)
+29/06/23,festa de San Pedro,municipal,15066,Pino (O)
+21/08/23,O Carme dos Pincheiros,municipal,15067,Pobra do Caramiñal (A)
+18/09/23,O Luns do Nazareno,municipal,15067,Pobra do Caramiñal (A)
+17/07/23,festa do Carme,municipal,15068,Ponteceso
+11/09/23,Luns da Barquiña,municipal,15068,Ponteceso
+08/09/23,festa das Peras,municipal,15069,Pontedeume
+29/09/23,festa de San Miguel de Breamo,municipal,15069,Pontedeume
+21/02/23,Martes de Entroido,municipal,15070,As Pontes de García Rodríguez
+17/07/23,festa do Carme,municipal,15070,As Pontes de García Rodríguez
+20/02/23,Luns de Entroido,municipal,15071,Porto do Son
+08/09/23,festa local de Porto do Son,municipal,15071,Porto do Son
+14/07/23,festa do Carme,municipal,15072,Rianxo
+15/09/23,Venres de Guadalupe,municipal,15072,Rianxo
+24/07/23,festividade da Dorna,municipal,15073,Ribeira
+12/09/23,Santa Uxía de Ribeira,municipal,15073,Ribeira
+10/04/23,Luns de Pascua,municipal,15074,Rois
+15/05/23,festa de San Isidro Labrador,municipal,15074,Rois
+21/02/23,Martes de Entroido,municipal,15075,Sada
+16/08/23,festa de San Roque,municipal,15075,Sada
+21/02/23,Martes de Entroido,municipal,15076,San Sadurniño
+03/07/23,festa local de San Sadurniño,municipal,15076,San Sadurniño
+29/06/23,festa de San Pedro,municipal,15077,Santa Comba
+30/06/23,festa de Santo Antonio,municipal,15077,Santa Comba
+18/05/23,Día da Ascensión,municipal,15078,Santiago de Compostela
+16/08/23,Día de San Roque,municipal,15078,Santiago de Compostela
+13/06/23,festa de Santo Antonio,municipal,15079,Santiso
+15/09/23,festa da Virxe das Dores,municipal,15079,Santiso
+21/02/23,Martes de Entroido,municipal,15080,Sobrado
+29/06/23,festa de San Pedro,municipal,15080,Sobrado
+21/02/23,Martes de Entroido,municipal,15081,Somozas (As)
+24/07/23,festa local,municipal,15081,Somozas (As)
+21/02/23,Martes de Entroido,municipal,15082,Teo
+18/05/23,Día da Ascensión,municipal,15082,Teo
+21/02/23,Martes de Entroido,municipal,15083,Toques
+15/05/23,festa de San Cidre,municipal,15083,Toques
+21/02/23,Martes de Entroido,municipal,15084,Tordoia
+15/05/23,festa de San Isidro Labrador,municipal,15084,Tordoia
+21/02/23,Martes de Entroido,municipal,15085,Touro
+10/04/23,Luns de Pascua,municipal,15085,Touro
+21/02/23,Martes de Entroido,municipal,15086,Trazo
+21/09/23,San Mateo,municipal,15086,Trazo
+21/02/23,Martes de Entroido,municipal,15087,Valdoviño
+17/08/23,Día de San Mamede,municipal,15087,Valdoviño
+21/02/23,Martes de Entroido,municipal,15088,Val do Dubra
+04/08/23,festa do Emigrante,municipal,15088,Val do Dubra
+18/05/23,festa da Ascensión,municipal,15089,Vedra
+18/09/23,festividade do Patio,municipal,15089,Vedra
+21/02/23,Martes de Entroido,municipal,15090,Vilasantar
+24/07/23,festa de Santa Cristina,municipal,15090,Vilasantar
+20/02/23,Luns de Entroido,municipal,15091,Vilarmaior
+21/02/23,Martes de Entroido,municipal,15091,Vilarmaior
+21/02/23,Martes de Entroido,municipal,15092,Vimianzo
+14/08/23,festas do Verán,municipal,15092,Vimianzo
+10/07/23,festa local de San Cristovo,municipal,15093,Zas
+26/07/23,festa de Santa Margarita,municipal,15093,Zas
+21/02/23,Martes de Entroido,municipal,15901,Cariño
+24/08/23,festa de San Bartolomeu,municipal,15901,Cariño
+21/02/23,Martes de Entroido,municipal,15902,Oza-Cesuras
+15/05/23,Día de San Isidro,municipal,15902,Oza-Cesuras
+21/02/23,Martes de Entroido,municipal,27001,Abadín
+27/09/23,San Cosme da Montaña,municipal,27001,Abadín
+21/02/23,Martes de Entroido,municipal,27002,Alfoz
+31/07/23,festa dos Chóferes,municipal,27002,Alfoz
+21/02/23,Martes de Entroido,municipal,27003,Antas de Ulla
+08/09/23,Virxe dos Remedios,municipal,27003,Antas de Ulla
+21/02/23,Martes de Entroido,municipal,27004,Baleira
+11/08/23,San Cristovo,municipal,27004,Baleira
+21/02/23,Martes de Entroido,municipal,27005,Barreiros
+24/08/23,San Bartolo,municipal,27005,Barreiros
+21/02/23,Martes de Entroido,municipal,27006,Becerreá
+14/09/23,Santo Ecce Homo,municipal,27006,Becerreá
+21/02/23,Martes de Entroido,municipal,27007,Begonte
+30/06/23,festividade de San Pedro,municipal,27007,Begonte
+01/09/23,festividade de San Xil,municipal,27008,Bóveda
+15/09/23,Divino Ecce-Homo,municipal,27008,Bóveda
+24/07/23,festivo local,municipal,27009,Carballedo
+14/08/23,festivo local,municipal,27009,Carballedo
+21/02/23,Martes de Entroido,municipal,27010,Castro de Rei
+07/08/23,luns seguinte a San Roque e Doce Nome de María,municipal,27010,Castro de Rei
+21/02/23,Martes de Entroido,municipal,27011,Castroverde
+26/07/23,Santiago Apóstolo,municipal,27011,Castroverde
+21/02/23,Martes de Entroido,municipal,27012,Cervantes
+13/10/23,festivo local,municipal,27012,Cervantes
+21/02/23,Martes de Entroido,municipal,27013,Cervo
+16/08/23,San Roque,municipal,27013,Cervo
+21/02/23,Martes de Entroido,municipal,27014,Corgo (O)
+05/10/23,San Froilán,municipal,27014,Corgo (O)
+21/02/23,Martes de Entroido,municipal,27015,Cospeito
+08/09/23,Nosa Señora Virxe do Monte,municipal,27015,Cospeito
+29/08/23,festa da empanada,municipal,27016,Chantada
+08/09/23,Nosa Señora do Faro,municipal,27016,Chantada
+18/08/23,festas patronais de Folgoso,municipal,27017,Folgoso do Courel
+07/12/23,Ponte da Constitución,municipal,27017,Folgoso do Courel
+21/02/23,Martes de Entroido,municipal,27018,Fonsagrada (A)
+11/09/23,festas patronais da Fonsagrada,municipal,27018,Fonsagrada (A)
+21/02/23,Martes de Entroido,municipal,27019,Foz
+10/08/23,San Lourenzo,municipal,27019,Foz
+21/02/23,Martes de Entroido,municipal,27020,Friol
+10/07/23,Luns de Santa Isabel,municipal,27020,Friol
+21/02/23,Martes de Entroido,municipal,27021,Xermade
+07/08/23,Luns de Santa María,municipal,27021,Xermade
+21/02/23,Martes de Entroido,municipal,27022,Guitiriz
+24/06/23,San Xoán,municipal,27022,Guitiriz
+21/02/23,Martes de Entroido,municipal,27023,Guntín
+03/07/23,Luns das Festas de Guntín,municipal,27023,Guntín
+21/02/23,Martes de Entroido,municipal,27024,Incio (O)
+15/05/23,San Eufrasio,municipal,27024,Incio (O)
+21/02/23,Martes de Entroido,municipal,27025,Xove
+21/08/23,festas patronais,municipal,27025,Xove
+21/02/23,Martes de Entroido,municipal,27026,Láncara
+21/08/23,Luns de San Roque,municipal,27026,Láncara
+21/02/23,Martes de Entroido,municipal,27027,Lourenzá
+28/08/23,Luns do Conde Santo,municipal,27027,Lourenzá
+21/02/23,Martes de Entroido,municipal,27028,Lugo
+05/10/23,San Froilán,municipal,27028,Lugo
+21/02/23,Martes de Entroido,municipal,27029,Meira
+16/08/23,San Roque,municipal,27029,Meira
+11/09/23,Luns dos Remedios,municipal,27030,Mondoñedo
+18/10/23,As San Lucas,municipal,27030,Mondoñedo
+11/04/23,Martes de Pascua,municipal,27031,Monforte de Lemos
+13/06/23,Santo Antón,municipal,27031,Monforte de Lemos
+10/07/23,San Cristovo,municipal,27032,Monterroso
+29/09/23,San Miguel,municipal,27032,Monterroso
+21/02/23,Martes de Entroido,municipal,27033,Muras
+03/07/23,San Pedro de Muras,municipal,27033,Muras
+21/02/23,Martes de Entroido,municipal,27034,Navia de Suarna
+18/09/23,Virxe das Dores,municipal,27034,Navia de Suarna
+21/02/23,Martes de Entroido,municipal,27035,Negueira de Muñiz
+16/08/23,festividade da Virxe de Veiga,municipal,27035,Negueira de Muñiz
+21/02/23,Martes de Entroido,municipal,27037,Nogais (As)
+04/08/23,festa do Emigrante,municipal,27037,Nogais (As)
+12/05/23,Nosa Señora de Fátima,municipal,27038,Ourol
+28/08/23,Luns de Naseiro,municipal,27038,Ourol
+21/02/23,Martes de Entroido,municipal,27039,Outeiro de Rei
+03/07/23,Luns de Santa Isabel,municipal,27039,Outeiro de Rei
+21/02/23,Martes de Entroido,municipal,27040,Palas de Rei
+14/09/23,Ecce-Homo,municipal,27040,Palas de Rei
+21/02/23,Martes de Entroido,municipal,27041,Pantón
+21/08/23,festas locais,municipal,27041,Pantón
+21/02/23,Martes de Entroido,municipal,27042,Paradela
+29/09/23,San Miguel,municipal,27042,Paradela
+21/02/23,Martes de Entroido,municipal,27043,Páramo (O)
+09/06/23,festas de Primavera,municipal,27043,Páramo (O)
+21/02/23,Martes de Entroido,municipal,27044,Pastoriza (A)
+18/10/23,San Lucas,municipal,27044,Pastoriza (A)
+21/02/23,Martes de Entroido,municipal,27045,Pedrafita do Cebreiro
+13/06/23,Santo Antón,municipal,27045,Pedrafita do Cebreiro
+21/02/23,Martes de Entroido,municipal,27046,Pol
+24/08/23,festa do Emigrante,municipal,27046,Pol
+21/02/23,Martes de Entroido,municipal,27047,Pobra do Brollón (A)
+12/06/23,día seguinte ao Corpus Christi,municipal,27047,Pobra do Brollón (A)
+21/02/23,Martes de Entroido,municipal,27048,Pontenova (A)
+09/10/23,Luns das Feiras,municipal,27048,Pontenova (A)
+21/02/23,Martes de Entroido,municipal,27049,Portomarín
+04/09/23,Santo Cristo das Victorias,municipal,27049,Portomarín
+20/02/23,Luns de Entroido,municipal,27050,Quiroga
+10/04/23,Luns de Pascua,municipal,27050,Quiroga
+16/08/23,San Roque co-patrón da vila,municipal,27051,Ribadeo
+08/09/23,Santa María do Campo,municipal,27051,Ribadeo
+16/08/23,San Roque,municipal,27052,Ribas de Sil
+30/10/23,festas de San Claudio,municipal,27052,Ribas de Sil
+21/02/23,Martes de Entroido,municipal,27053,Ribeira de Piquín
+24/04/23,festividade de San Xurxo,municipal,27053,Ribeira de Piquín
+21/02/23,Martes de Entroido,municipal,27054,Riotorto
+29/06/23,San Pedro,municipal,27054,Riotorto
+09/01/23,San Xulián e Santa Basilisa,municipal,27055,Samos
+10/07/23,festa de San Benito,municipal,27055,Samos
+21/02/23,Martes de Entroido,municipal,27056,Rábade
+14/08/23,Nosa Señora da Asunción,municipal,27056,Rábade
+24/06/23,festivo local,municipal,27057,Sarria
+08/09/23,festivo local,municipal,27057,Sarria
+21/02/23,Martes de Entroido,municipal,27058,Saviñao (O)
+08/08/23,festas locais de Escairón,municipal,27058,Saviñao (O)
+08/09/23,Romaría Virxe de Cadeiras,municipal,27059,Sober
+18/09/23,festas patronais,municipal,27059,Sober
+21/02/23,Martes de Entroido,municipal,27060,Taboada
+14/08/23,festas da vila,municipal,27060,Taboada
+25/04/23,San Marcos,municipal,27061,Trabada
+16/08/23,San Roque,municipal,27061,Trabada
+21/02/23,Martes de Entroido,municipal,27062,Triacastela
+17/08/23,San Mamede,municipal,27062,Triacastela
+21/02/23,Martes de Entroido,municipal,27063,Valadouro (O)
+08/09/23,festa do Oito,municipal,27063,Valadouro (O)
+21/02/23,Martes de Entroido,municipal,27064,Vicedo (O)
+07/08/23,Santo Estevo,municipal,27064,Vicedo (O)
+31/08/23,San Ramón,municipal,27065,Vilalba
+01/09/23,Santa María,municipal,27065,Vilalba
+21/02/23,Martes de Entroido,municipal,27066,Viveiro
+16/08/23,San Roque,municipal,27066,Viveiro
+21/02/23,Martes de Entroido,municipal,27901,Baralla
+28/08/23,San Vitorio,municipal,27901,Baralla
+21/02/23,Martes de Entroido,municipal,27902,Burela
+05/06/23,luns das festas patronais,municipal,27902,Burela
+21/02/23,Martes de Entroido,municipal,32001,Allariz
+09/06/23,Venres do Boi,municipal,32001,Allariz
+21/02/23,Martes de Entroido,municipal,32002,Amoeiro
+11/11/23,San Martiño,municipal,32002,Amoeiro
+22/05/23,Santa Rita,municipal,32003,Arnoia (A)
+04/08/23,festa do Pemento,municipal,32003,Arnoia (A)
+21/02/23,Martes de Entroido,municipal,32004,Avión
+07/08/23,Luns de San Roque,municipal,32004,Avión
+21/02/23,Martes de Entroido,municipal,32005,Baltar
+18/05/23,festa da Ascensión,municipal,32005,Baltar
+21/02/23,Martes de Entroido,municipal,32006,Bande
+21/08/23,festas de San Roque,municipal,32006,Bande
+21/02/23,Martes de Entroido,municipal,32007,Baños de Molgas
+08/09/23,Os Milagres,municipal,32007,Baños de Molgas
+21/02/23,Martes de Entroido,municipal,32008,Barbadás
+11/11/23,San Martiño,municipal,32008,Barbadás
+22/05/23,Día de Santa Rita,municipal,32009,Barco de Valdeorras (O)
+14/09/23,Día do Cristo,municipal,32009,Barco de Valdeorras (O)
+03/02/23,San Blas,municipal,32010,Beade
+16/08/23,San Roque,municipal,32010,Beade
+21/02/23,Martes de Entroido,municipal,32011,Beariz
+16/08/23,San Roque,municipal,32011,Beariz
+21/02/23,Martes de Entroido,municipal,32012,Blancos (Os)
+15/09/23,A Nosa Señora das Dores,municipal,32012,Blancos (Os)
+13/06/23,Santo Antonio,municipal,32013,Boborás
+19/09/23,Virxe da Saleta,municipal,32013,Boborás
+21/02/23,Martes de Entroido,municipal,32014,Bola (A)
+02/05/23,Santa Cruz en Veiga,municipal,32014,Bola (A)
+16/08/23,,municipal,32015,Bolo (O)
+13/12/23,,municipal,32015,Bolo (O)
+21/02/23,Martes de Entroido,municipal,32016,Calvos de Randín
+07/08/23,festas de Calvos,municipal,32016,Calvos de Randín
+21/02/23,Martes de Entroido,municipal,32017,Carballeda de Valdeorras
+17/04/23,Nosa Señora da Encarnación,municipal,32017,Carballeda de Valdeorras
+21/02/23,Martes de Entroido,municipal,32018,Carballeda de Avia
+29/05/23,Luns de Lodairo,municipal,32018,Carballeda de Avia
+21/02/23,Martes de Entroido,municipal,32019,Carballiño (O)
+18/09/23,día seguinte ao patrón San Cibrao,municipal,32019,Carballiño (O)
+21/03/23,San Bieito,municipal,32020,Cartelle
+22/08/23,Virxe do Mundil,municipal,32020,Cartelle
+17/01/23,Santo Antón,municipal,32021,Castrelo do Val
+22/02/23,Mércores de Cinza,municipal,32021,Castrelo do Val
+21/02/23,Martes de Entroido,municipal,32022,Castrelo de Miño
+04/08/23,Virxe das Neves,municipal,32022,Castrelo de Miño
+20/01/23,festa dos Fachós,municipal,32023,Castro Caldelas
+08/09/23,festa dos Remedios,municipal,32023,Castro Caldelas
+01/03/23,San Rosendo,municipal,32024,Celanova
+16/08/23,San Roque,municipal,32024,Celanova
+21/02/23,Martes de Entroido,municipal,32025,Cenlle
+10/04/23,Virxe das Areas,municipal,32025,Cenlle
+21/02/23,Martes de Entroido,municipal,32026,Coles
+11/11/23,San Martiño,municipal,32026,Coles
+11/07/23,San Bieito,municipal,32027,Cortegada
+26/07/23,Santa Ana,municipal,32027,Cortegada
+22/02/23,Mércores de Cinza,municipal,32028,Cualedro
+13/06/23,Santo Antonio,municipal,32028,Cualedro
+21/02/23,Martes de Entroido,municipal,32029,Chandrexa de Queixa
+04/09/23,luns posterior á festa do Cordeiro,municipal,32029,Chandrexa de Queixa
+21/02/23,Martes de Entroido,municipal,32030,Entrimo
+02/08/23,,municipal,32030,Entrimo
+02/02/23,As Candelas (patroa),municipal,32031,Esgos
+21/02/23,Martes de Entroido,municipal,32031,Esgos
+21/02/23,Martes de Entroido,municipal,32032,Xinzo de Limia
+18/07/23,festas de Santa Mariña,municipal,32032,Xinzo de Limia
+14/08/23,,municipal,32033,Gomesende
+13/10/23,,municipal,32033,Gomesende
+24/02/23,,municipal,32034,Gudiña (A)
+24/08/23,,municipal,32034,Gudiña (A)
+21/02/23,Martes de Entroido,municipal,32035,Irixo (O)
+16/08/23,San Roque,municipal,32035,Irixo (O)
+03/02/23,San Blas,municipal,32036,Xunqueira de Ambía
+16/08/23,San Roque,municipal,32036,Xunqueira de Ambía
+21/02/23,Martes de Entroido,municipal,32037,Xunqueira de Espadanedo
+10/07/23,luns das festas patronais na honra da Santa Isabel,municipal,32037,Xunqueira de Espadanedo
+08/09/23,Santa María dos Remedios,municipal,32038,Larouco
+13/12/23,Santa Lucía,municipal,32038,Larouco
+22/02/23,Mércores de Cinza,municipal,32039,Laza
+03/05/23,Día do Santo Cristo,municipal,32039,Laza
+03/05/23,Santa Cruz,municipal,32040,Leiro
+29/06/23,San Pedro,municipal,32040,Leiro
+21/02/23,Martes de Entroido,municipal,32041,Lobeira
+08/09/23,O Viso Pequeno,municipal,32041,Lobeira
+21/02/23,Martes de Entroido,municipal,32042,Lobios
+11/08/23,festa do Verán,municipal,32042,Lobios
+21/02/23,Martes de Entroido,municipal,32043,Maceda
+08/08/23,festas patronais de Maceda,municipal,32043,Maceda
+21/02/23,Martes de Entroido,municipal,32044,Manzaneda
+07/08/23,Virxe das Neves,municipal,32044,Manzaneda
+21/02/23,Martes de Entroido,municipal,32045,Maside
+28/08/23,festa do San Vitorio,municipal,32045,Maside
+03/05/23,Santa Cruz,municipal,32046,Melón
+13/06/23,Santo Antonio,municipal,32046,Melón
+21/02/23,Martes de Entroido,municipal,32047,Merca (A)
+05/06/23,Espírito Santo,municipal,32047,Merca (A)
+04/08/23,Virxe das Neves,municipal,32048,Mezquita (A)
+10/11/23,San Martiño,municipal,32048,Mezquita (A)
+21/02/23,Martes de Entroido,municipal,32049,Montederramo
+16/08/23,San Roque,municipal,32049,Montederramo
+26/07/23,,municipal,32050,Monterrei
+16/08/23,,municipal,32050,Monterrei
+21/02/23,Martes de Entroido,municipal,32051,Muíños
+30/06/23,San Pedro,municipal,32051,Muíños
+21/02/23,Martes de Entroido,municipal,32052,Nogueira de Ramuín
+16/08/23,San Roque,municipal,32052,Nogueira de Ramuín
+22/02/23,Mércores de Cinza,municipal,32053,Oímbra
+26/07/23,Santa Ana,municipal,32053,Oímbra
+21/02/23,Martes de Entroido,municipal,32054,Ourense
+11/11/23,San Martiño,municipal,32054,Ourense
+21/02/23,Martes de Entroido,municipal,32055,Paderne de Allariz
+10/11/23,San Martiño,municipal,32055,Paderne de Allariz
+23/06/23,San Xoán,municipal,32056,Padrenda
+29/09/23,San Miguel de Desteriz,municipal,32056,Padrenda
+21/02/23,Martes de Entroido,municipal,32057,Parada de Sil
+31/08/23,,municipal,32057,Parada de Sil
+21/02/23,Martes de Entroido,municipal,32058,Pereiro de Aguiar (O)
+11/11/23,San Martiño,municipal,32058,Pereiro de Aguiar (O)
+21/02/23,Martes de Entroido,municipal,32059,Peroxa (A)
+13/11/23,San Martiño,municipal,32059,Peroxa (A)
+17/01/23,Santo Antón,municipal,32060,Petín
+26/07/23,Santa Ana,municipal,32060,Petín
+21/02/23,Martes de Entroido,municipal,32061,Piñor
+24/07/23,en substitución do San Martiño,municipal,32061,Piñor
+21/02/23,Martes de Entroido,municipal,32062,Porqueira
+10/04/23,Luns de Pascua,municipal,32062,Porqueira
+24/08/23,,municipal,32063,Pobra de Trives (A)
+14/09/23,,municipal,32063,Pobra de Trives (A)
+21/02/23,Martes de Entroido,municipal,32064,Pontedeva
+17/07/23,luns seguinte ao Día do Carme,municipal,32064,Pontedeva
+21/02/23,Martes de Entroido,municipal,32065,Punxín
+17/04/23,San Wintila,municipal,32065,Punxín
+21/02/23,Martes de Entroido,municipal,32066,Quintela de Leirado
+08/09/23,Virxe dos Remedios,municipal,32066,Quintela de Leirado
+21/02/23,Martes de Entroido,municipal,32067,Rairiz de Veiga
+07/12/23,ponte da Constitución,municipal,32067,Rairiz de Veiga
+21/02/23,Martes de Entroido,municipal,32068,Ramirás
+07/12/23,ponte da Constitución,municipal,32068,Ramirás
+21/02/23,Martes de Entroido,municipal,32069,Ribadavia
+08/09/23,Virxe do Portal,municipal,32069,Ribadavia
+21/02/23,Martes de Entroido,municipal,32070,San Xoán de Río
+23/06/23,San Xoán,municipal,32070,San Xoán de Río
+16/08/23,San Roque,municipal,32071,Riós
+15/09/23,Nosa Señora das Dores,municipal,32071,Riós
+07/08/23,festas do Verán,municipal,32072,Rúa (A)
+21/08/23,San Roque,municipal,32072,Rúa (A)
+18/05/23,A Ascensión,municipal,32073,Rubiá
+24/08/23,San Bartolomeu,municipal,32073,Rubiá
+21/02/23,Martes de Entroido,municipal,32074,San Amaro
+15/05/23,San Trocado,municipal,32074,San Amaro
+21/02/23,Martes de Entroido,municipal,32075,San Cibrao das Viñas
+11/11/23,San Martiño,municipal,32075,San Cibrao das Viñas
+10/07/23,San Cristovo,municipal,32076,San Cristovo de Cea
+25/09/23,festas da Saleta,municipal,32076,San Cristovo de Cea
+21/02/23,Martes de Entroido,municipal,32077,Sandiás
+10/04/23,Luns de Pascua,municipal,32077,Sandiás
+20/02/23,Luns de Entroido,municipal,32078,Sarreaus
+11/09/23,festa de Sarreaus,municipal,32078,Sarreaus
+21/02/23,Martes de Entroido,municipal,32079,Taboadela
+07/12/23,,municipal,32079,Taboadela
+21/02/23,Martes de Entroido,municipal,32080,Teixeira (A)
+14/08/23,,municipal,32080,Teixeira (A)
+21/02/23,Martes de Entroido,municipal,32081,Toén
+11/11/23,San Martiño,municipal,32081,Toén
+21/02/23,Martes de Entroido,municipal,32082,Trasmiras
+10/04/23,Luns de Pascua,municipal,32082,Trasmiras
+21/02/23,Martes de Entroido,municipal,32083,Veiga (A)
+08/09/23,,municipal,32083,Veiga (A)
+21/02/23,Martes de Entroido,municipal,32084,Verea
+13/11/23,San Martiño,municipal,32084,Verea
+17/01/23,Santo Antón,municipal,32085,Verín
+22/02/23,Mércores de Cinza,municipal,32085,Verín
+22/02/23,Mércores de Cinza,municipal,32086,Viana do Bolo
+16/08/23,San Roque,municipal,32086,Viana do Bolo
+21/02/23,Martes de Entroido,municipal,32087,Vilamarín
+13/11/23,luns seguinte ao San Martiño,municipal,32087,Vilamarín
+24/04/23,San Xurxo,municipal,32088,Vilamartín de Valdeorras
+21/07/23,Santa María Madalena,municipal,32088,Vilamartín de Valdeorras
+01/08/23,,municipal,32089,Vilar de Barrio
+13/10/23,,municipal,32089,Vilar de Barrio
+10/04/23,Luns de Pascua,municipal,32090,Vilar de Santos
+04/08/23,Virxe das Neves,municipal,32090,Vilar de Santos
+22/02/23,Mércores de Cinza,municipal,32091,Vilardevós
+16/08/23,festa de San Roque,municipal,32091,Vilardevós
+20/02/23,Luns de Entroido,municipal,32092,Vilariño de Conso
+10/07/23,San Martiño de Verán,municipal,32092,Vilariño de Conso
+11/07/23,San Bieito,municipal,36001,Arbo
+16/08/23,San Roque,municipal,36001,Arbo
+16/06/23,festa do Viño,municipal,36002,Barro
+29/09/23,Romaría de San Breixo,municipal,36002,Barro
+03/03/23,festa da Arribada,municipal,36003,Baiona
+26/09/23,festividade de San Cosme,municipal,36003,Baiona
+23/02/23,Día de Rosalía,municipal,36004,Bueu
+11/11/23,festividade de San Martiño,municipal,36004,Bueu
+23/06/23,,municipal,36005,Caldas de Reis
+16/08/23,San Roque,municipal,36005,Caldas de Reis
+11/07/23,San Bieito,municipal,36006,Cambados
+18/07/23,Santa Mariña,municipal,36006,Cambados
+13/06/23,Santo Antonio,municipal,36007,Campo Lameiro
+29/09/23,San Miguel,municipal,36007,Campo Lameiro
+31/03/23,Venres das Dores,municipal,36008,Cangas
+28/08/23,Luns do Cristo,municipal,36008,Cangas
+29/05/23,Romaría das Pascuillas,municipal,36009,Cañiza (A)
+21/09/23,Romaría da Virxe da Pena de Francia,municipal,36009,Cañiza (A)
+10/07/23,Santo Antonio na parroquia de Catoira,municipal,36010,Catoira
+14/08/23,Santa Baia na parroquia de Oeste,municipal,36010,Catoira
+29/05/23,festa das Pascuillas,municipal,36013,Covelo
+13/10/23,,municipal,36013,Covelo
+21/02/23,,municipal,36014,Crecente
+29/06/23,San Pedro,municipal,36014,Crecente
+11/07/23,San Bieito,municipal,36015,Cuntis
+18/08/23,Santo Antón,municipal,36015,Cuntis
+17/07/23,Luns da Virxe do Carme,municipal,36016,Dozón
+04/09/23,Luns da Pena de Francia,municipal,36016,Dozón
+26/06/23,festas patronais de San Paio,municipal,36017,Estrada (A)
+27/06/23,festas patronais de San Paio,municipal,36017,Estrada (A)
+28/08/23,Luns das Dores,municipal,36018,Forcarei
+10/11/23,San Martiño,municipal,36018,Forcarei
+10/04/23,Luns de Pascua,municipal,36019,Fornelos de Montes
+10/08/23,festas de San Lourenzo,municipal,36019,Fornelos de Montes
+29/06/23,San Pedro e San Pablo,municipal,36020,Agolada
+30/06/23,San Pedro e San Pablo,municipal,36020,Agolada
+11/07/23,San Bieito,municipal,36021,Gondomar
+16/08/23,San Roque,municipal,36021,Gondomar
+17/07/23,luns seguinte á festividade do Carme,municipal,36022,Grove (O)
+10/11/23,venres véspera de San Martiño,municipal,36022,Grove (O)
+14/08/23,,municipal,36023,Guarda (A)
+23/09/23,Santa Trega,municipal,36023,Guarda (A)
+25/09/23,festas patronais Virxe das Dores,municipal,36024,Lalín
+26/09/23,festas patronais Virxe das Dores,municipal,36024,Lalín
+27/07/23,San Xoaquín e Santa Ana,municipal,36025,Lama (A)
+04/08/23,festa das Ermidas,municipal,36025,Lama (A)
+22/02/23,Mércores de Cinza,municipal,36026,Marín
+08/09/23,festividade da Virxe do Porto,municipal,36026,Marín
+11/07/23,San Bieito,municipal,36027,Meaño
+13/12/23,Santa Lucía,municipal,36027,Meaño
+10/04/23,Luns de Pascua (Nosa Señora das Cabezas),municipal,36028,Meis
+11/07/23,San Bieito,municipal,36028,Meis
+10/04/23,Os Remedios,municipal,36029,Moaña
+11/11/23,San Martiño,municipal,36029,Moaña
+29/05/23,,municipal,36030,Mondariz
+16/08/23,San Roque,municipal,36030,Mondariz
+29/05/23,festividade da Virxe da Franqueira,municipal,36031,Mondariz-Balneario
+17/07/23,festividade da Virxe do Carme,municipal,36031,Mondariz-Balneario
+19/07/23,Santa Xusta,municipal,36032,Moraña
+13/12/23,Santa Lucía,municipal,36032,Moraña
+13/06/23,festa da Rosa,municipal,36033,Mos
+07/08/23,San Mamede,municipal,36033,Mos
+31/07/23,festividade de Santa Marta,municipal,36034,Neves (As)
+07/08/23,festividade da Nosa Señora das Neves,municipal,36034,Neves (As)
+29/06/23,San Pedro,municipal,36035,Nigrán
+01/08/23,San Fiz,municipal,36035,Nigrán
+29/05/23,festividade da Virxe do Mar,municipal,36036,Oia
+07/08/23,festividade de San Mamede,municipal,36036,Oia
+10/04/23,Luns de Pascua,municipal,36037,Pazos de Borbén
+07/08/23,A Branca Pequena,municipal,36037,Pazos de Borbén
+22/02/23,Mércores de Cinza,municipal,36038,Pontevedra
+11/07/23,San Bieito ,municipal,36038,Pontevedra
+11/07/23,San Bieito,municipal,36039,Porriño (O)
+25/09/23,Día do Cristo,municipal,36039,Porriño (O)
+21/03/23,San Bieito,municipal,36040,Portas
+10/04/23,Luns de Pascua,municipal,36040,Portas
+24/06/23,,municipal,36041,Poio
+17/08/23,,municipal,36041,Poio
+12/06/23,luns seguinte á festividade do Corpus Christi,municipal,36042,Ponteareas
+29/09/23,festividade de San Miguel,municipal,36042,Ponteareas
+10/04/23,Luns de Pascua,municipal,36043,Ponte Caldelas
+30/08/23,mércores da festa das Dores,municipal,36043,Ponte Caldelas
+07/01/23,festa de San Xulián,municipal,36044,Pontecesures
+03/07/23,festa do Carme,municipal,36044,Pontecesures
+17/04/23,Luns do Cristo,municipal,36045,Redondela
+08/06/23,Xoves da Coca,municipal,36045,Redondela
+10/04/23,Luns de Pascua,municipal,36046,Ribadumia
+02/06/23,festa do Viño Tinto,municipal,36046,Ribadumia
+12/06/23,Santo Antonio,municipal,36047,Rodeiro
+08/09/23,Nosa Señora do Faro,municipal,36047,Rodeiro
+21/02/23,Martes de Entroido,municipal,36048,Rosal (O)
+29/09/23,festividade de San Miguel,municipal,36048,Rosal (O)
+21/02/23,Martes de Entroido,municipal,36049,Salceda de Caselas
+17/07/23,Luns do Cristo,municipal,36049,Salceda de Caselas
+12/06/23,festividade do Santísimo Cristo da Victoria,municipal,36050,Salvaterra de Miño
+10/08/23,festividade de San Lourenzo,municipal,36050,Salvaterra de Miño
+10/04/23,Romaría do Con,municipal,36051,Sanxenxo
+04/09/23,Santa Rosalía,municipal,36051,Sanxenxo
+07/07/23,festa do Lacón,municipal,36052,Silleda
+21/08/23,festa da Empanada da Bandeira,municipal,36052,Silleda
+10/04/23,Luns de Pascua,municipal,36053,Soutomaior
+07/08/23,San Salvador,municipal,36053,Soutomaior
+21/02/23,Martes de Entroido,municipal,36054,Tomiño
+11/09/23,Luns do Alivio,municipal,36054,Tomiño
+21/02/23,Martes de Entroido,municipal,36055,Tui
+17/04/23,Luns de San Telmo,municipal,36055,Tui
+03/02/23,San Brais,municipal,36056,Valga
+24/07/23,Santa Cristina,municipal,36056,Valga
+28/03/23,Día da Reconquista,municipal,36057,Vigo
+16/08/23,San Roque,municipal,36057,Vigo
+21/02/23,Martes de Entroido,municipal,36058,Vilaboa
+11/11/23,San Martiño,municipal,36058,Vilaboa
+07/08/23,festividade da Nosa Señora da Piedade,municipal,36059,Vila de Cruces
+08/08/23,festividade da Nosa Señora da Piedade,municipal,36059,Vila de Cruces
+22/05/23,festividade de Santa Rita,municipal,36060,Vilagarcía de Arousa
+16/08/23,festividade de San Roque,municipal,36060,Vilagarcía de Arousa
+21/02/23,Martes de Entroido,municipal,36061,Vilanova de Arousa
+16/09/23,San Cibrao,municipal,36061,Vilanova de Arousa
+07/01/23,festividade de San Xulián,municipal,36901,Illa de Arousa (A)
+21/02/23,Martes de Entroido,municipal,36901,Illa de Arousa (A)
+31/07/23,festividade do Ecce-Homo,municipal,36902,Cerdedo-Cotobade
+21/08/23,San Roque,municipal,36902,Cerdedo-Cotobade

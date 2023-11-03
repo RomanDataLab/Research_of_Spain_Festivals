@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+    <OGRVRTLayer name="agenda_Euskadi-Metadatos">
+        <SrcDataSource relativeToVRT="1">agenda_Euskadi.xlsx</SrcDataSource>
+        <!--Header=False-->
+        <SrcLayer>Metadatos</SrcLayer>
+        <Field name="Nombre" src="Nombre" type="String"/>
+        <Field name="Descripción" src="Descripción" type="String"/>
+        <Field name="Tipo de evento" src="Tipo de evento" type="String"/>
+        <Field name="Fecha inicio evento" src="Fecha inicio evento" type="String"/>
+        <Field name="Fecha fin evento" src="Fecha fin evento" type="String"/>
+        <Field name="Territorio histórico (Nombre)" src="Territorio histórico (Nombre)" type="String"/>
+        <Field name="Municipio (Nombre)" src="Municipio (Nombre)" type="String"/>
+        <Field name="Localidad (Código)" src="Localidad (Código)" type="String"/>
+        <Field name="Localidad (Nombre)" src="Localidad (Nombre)" type="String"/>
+        <Field name="Lugar del evento" src="Lugar del evento" type="String"/>
+        <Field name="Fecha inicio evento (sin formato)" src="Fecha inicio evento (sin formato)" type="Real"/>
+        <Field name="Fecha fin evento (sin formato)" src="Fecha fin evento (sin formato)" type="Real"/>
+        <Field name="Importancia" src="Importancia" type="String"/>
+        <Field name="Perfiles Turisticos" src="Perfiles Turisticos" type="Real"/>
+        <Field name="Marcas" src="Marcas" type="String"/>
+        <Field name="Tipo de plantilla" src="Tipo de plantilla" type="String"/>
+        <Field name="Club de Producto" src="Club de Producto" type="Real"/>
+        <Field name="Horario" src="Horario" type="String"/>
+        <Field name="Destinatarios" src="Destinatarios" type="String"/>
+        <Field name="Coordenadas GPS" src="Coordenadas GPS" type="String"/>
+        <Field name="LATWGS84" src="LATWGS84" type="String"/>
+        <Field name="LONWGS84" src="LONWGS84" type="String"/>
+        <Field name="Municipio" src="Municipio" type="String"/>
+        <Field name="Código municipio" src="Código municipio" type="String"/>
+        <Field name="Provincia" src="Provincia" type="String"/>
+        <Field name="Código provincia" src="Código provincia" type="String"/>
+        <Field name="País" src="País" type="String"/>
+        <Field name="Código país" src="Código país" type="String"/>
+        <Field name="URL amigable" src="URL amigable" type="String"/>
+        <Field name="URL física" src="URL física" type="String"/>
+        <Field name="XML datos" src="XML datos" type="String"/>
+        <Field name="XML metadatos" src="XML metadatos" type="String"/>
+        <Field name="Zip" src="Zip" type="String"/>
+        <GeometryType>wkbPoint</GeometryType>
+        <LayerSRS>EPSG:4326</LayerSRS>
+        <GeometryField encoding="PointFromColumns" x="LONWGS84" y="LATWGS84"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
