@@ -9,7 +9,7 @@ tools: Python 3.8, Jupyter Notebook, Pandas, GoogleDeepTranslator, BeautifulSoup
 ## Key takeaways
 - by 2022 there is around 1000 festivals in Spain performed yearly
 - festivals in Spain have categories that correlate with state and local subventions: Interes Internacional, Interes National, Interes Local
-- main concentration of festivals is allocated in Catalan Countries: Catalonia, Valencia, Balearic Islands
+- main concentration of festivals is allocated in Catalan Countries: Catalonia, Valencia, Balearic Islands, and Galicia
 ## video presentation
 [![Spain Festival Industry by data science](https://img.youtube.com/vi/ZXprI2yhKzI/0.jpg)](https://www.youtube.com/watch?v=ZXprI2yhKzI)
 ## data scources
@@ -23,4 +23,7 @@ tools: Python 3.8, Jupyter Notebook, Pandas, GoogleDeepTranslator, BeautifulSoup
 ### calendar of festivals' distribution by dates
 ![Alt text](visuals/calendar_fin_true.jpg?raw=true "Title")
 ![Calendar definition in Grasshopper](visuals/calendar_def.png)
-### map
+### map of festivals by budget size
+![Alt text](visuals/allfest_budget.jpg)
+### map of festivals by euro spent per citizen
+![Alt text](visuals/allfest_euro_per_cit.jpg)
