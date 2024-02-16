@@ -1,6 +1,6 @@
 # Party to live or live to party?
 ## Research of the Festival Industry in Spain.</br>
-Research question: [is it possible to fest in Spain seamlessly all year round?](https://blog.iaac.net/party-to-live-or-live-to-party/)</br>
+Research question: [is it possible to fest in Spain all year round seamlessly?](https://blog.iaac.net/party-to-live-or-live-to-party/)</br>
 tools: Python 3.8, Jupyter Notebook, Pandas, GoogleDeepTranslator, BeautifulSoup, Grasshopper (Rhinoceros 3d 7), QGIS 3.28.2, Capcut.</br>
 # What I learned: 
 - Data mining, data cleaning, data preparation, data manipulation with Python
