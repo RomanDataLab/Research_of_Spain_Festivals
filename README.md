@@ -8,6 +8,7 @@ tools: Python 3.8, Jupyter Notebook, Pandas, GoogleDeepTranslator, BeautifulSoup
 - Calendar-making from csv in Grasshopper, data distribution by dates
 - Some festivals in tiny rural areas provide the sufficient part of local budget
 - A lot of festivals have similar scenario and even name (Feria de Abril, Corpus Cristi, Sant Joan, Romeria, Carnaval, etc)
+- All festivals in Catalonia were deprived of international status that alternatively does not affect their highest international attraction by tourists
 - Commercial music festivals have higher KPI than public-funded
 ## Key takeaways
 - by 2022 there is around 1000 festivals in Spain performed yearly
@@ -26,8 +27,6 @@ tools: Python 3.8, Jupyter Notebook, Pandas, GoogleDeepTranslator, BeautifulSoup
 ### calendar of festivals' distribution by dates
 ![Alt text](visuals/calendar_fin_true.jpg?raw=true "Title")
 ![Calendar definition in Grasshopper](visuals/calendar_def.png)
-### map of festivals by budget size
-![Alt text](visuals/allfest_budget.jpg)
 ### map of festivals by euro spent per citizen
 ![Alt text](visuals/allfest_euro_per_cit.jpg)
 ### map of festivals by amount of tourists
@@ -40,3 +39,7 @@ tools: Python 3.8, Jupyter Notebook, Pandas, GoogleDeepTranslator, BeautifulSoup
 ![Alt text](visuals/fiestabypro.jpg)
 ### map of festivals by budget
 ![Alt text](visuals/fiestainter%2Ball.jpg)
+### map combined researched festivals and festivals de interes national
+![Alt text](visuals/fiestainter%2Bnat.jpg)
+### map of festivals de interes international by amount of tourists
+![Alt text](visuals/fiestainter.jpg)
