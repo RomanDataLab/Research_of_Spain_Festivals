@@ -43,3 +43,14 @@ tools: Python 3.8, Jupyter Notebook, Pandas, GoogleDeepTranslator, BeautifulSoup
 ![Alt text](visuals/fiestainter%2Bnat.jpg)
 ### map of festivals de interes international by amount of tourists
 ![Alt text](visuals/fiestainter.jpg)
+
+## references 
+1. 7 FIESTAS ESPAÑOLAS que *SORPRENDEN* a los EXTRANJEROS . (2021, December 24). YouTube. <https://www.youtube.com/watch?v=prE3og5wz-M>
+2. 10 FIESTAS de PUEBLOS de ESPAÑA que te dejarán *SIN PALABRAS*. (2022, January 5). YouTube. <https://www.youtube.com/watch?v=ShneT9GAyVQ>
+3. Gobierno de España. (2022). Fiestas. <https://datos.gob.es/es/catalogo?q=fiestas&sort=score+desc%2C+metadata_created+desc>
+4. BuscaFreeTour. (2021). Las fiestas tradicionales populares más importantes y originales de España. <https://buscafreetour.com/blog/las-fiestas-tradicionales-populares-mas-importantes-y-originales-de-espana/>
+5. La Razón. (2021, December 24). [Title of the Article]. <https://www.larazon.es/espana/20211224/rgveqijauvcg7hkoyuzskngebe.html>
+6. Ministerio de Industria, Comercio y Turismo. (2022). Fiestas de Interés Turístico Internacional. <https://turismo.gob.es/desarrollo-sostenibilidad/fiestas/Paginas/Fiestas-de-Inter%c3%a9s-Tur%c3%adstico-Internacional.aspx>
+7. Wikipedia contributors. (2022). Anexo:Fiestas de Interés Turístico Internacional (España). Wikipedia. <https://es.wikipedia.org/wiki/Anexo:Fiestas_de_Inter%C3%A9s_Tur%C3%ADstico_Internacional_(Espa%C3%B1a)#Fiestas_de_inter%C3%A9s_tur%C3%ADstico_internacional>
+8. WorldData. (2022). Tourism in Spain. <https://www.worlddata.info/europe/spain/tourism.php>
+9. Jones, D. (2022). Music Festivals in Spain. Jones Around The World. <https://www.jonesaroundtheworld.com/music-festivals-in-spain/>
