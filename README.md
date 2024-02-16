@@ -5,6 +5,7 @@ tools: Python, Grasshopper, QGIS, Capcut.</br>
 
 [![Spain Festival Industry by data science](https://img.youtube.com/vi/ZXprI2yhKzI/0.jpg)](https://www.youtube.com/watch?v=ZXprI2yhKzI)
 
+![Alt text](relative%20path/visuals/calendar_fin_true.jpg?raw=true "Title")
 # What I learned: 
 - Data mining, data cleaning, data preparation, data manipulation with Python
 - Data vizualisation with QGIS and Grasshopper
