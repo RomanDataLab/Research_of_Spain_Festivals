@@ -6,14 +6,15 @@ tools: Python 3.8, Jupyter Notebook, Pandas, GoogleDeepTranslator, BeautifulSoup
 - Data mining, data cleaning, data preparation, data manipulation with Python
 - Data vizualisation with QGIS and Grasshopper using dynamic maps
 - Calendar-making from csv in Grasshopper, data distribution by dates
-- Some festivals in tiny rural areas provide the sufficient part of local budget
-- A lot of festivals have similar scenario and even name (Feria de Abril, Corpus Cristi, Sant Joan, Romeria, Carnaval, etc)
-- All festivals in Catalonia were deprived of international status that alternatively does not affect their highest international attraction by tourists
-- Commercial music festivals have higher KPI than public-funded
+
 ## Key takeaways
 - by 2022 there is around 1000 festivals in Spain performed yearly
 - festivals in Spain have categories that correlate with state and local subventions: Interes Internacional, Interes National, Interes Local
 - main concentration of festivals is allocated in Catalan Countries: Catalonia, Valencia, Balearic Islands, and Galicia
+- Some festivals in tiny rural areas provide the sufficient part of local budget
+- A lot of festivals have similar scenario and even name (Feria de Abril, Corpus Cristi, Sant Joan, Romeria, Carnaval, etc)
+- All festivals in Catalonia were deprived of international status that alternatively does not affect their highest international attraction by tourists
+- Commercial music festivals have higher KPI than public-funded
 ## video presentation
 [![Spain Festival Industry by data science](https://img.youtube.com/vi/ZXprI2yhKzI/0.jpg)](https://www.youtube.com/watch?v=ZXprI2yhKzI)
 ## data scources
